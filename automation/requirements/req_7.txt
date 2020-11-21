@@ -1,0 +1,48 @@
+You are passionate about new technologies, specifically automation, and you want to be part of a software development team that is constantly innovating while working in an environment that is friendly, casual and stimulating?
+We are looking for a teammate like you!
+Join a team that is agile, ambitious and is constantly striving to improve while working on building applications within our platform that help broadcasters, podcasters, and music services to maximize their online revenue.
+Your responsibilities:
+· Validate the quality of new features developed using a combination of script-based testing techniques and exploratory testing.
+· Report observed faults and identify associated risks.
+· Develop, execute and maintain end-to-end test strategies and scenarios including at the backend.
+· Actively participate in the definition, breakdown and estimation of user stories.
+· Work closely with developers to understand the implemented changes and define appropriate test plans.
+· Perform root cause analysis of observed problems and help lead prevention initiatives.
+· Analyze documentation and technical requirements in order to have in-depth knowledge of the entire system.
+· Participate in our Triton Days to experiment with new technologies favoring innovation of our products.
+You are an excellent candidate if you:
+· Have between 2- 5 years of experience as a QA Analyst or Functional Analyst within the context of software development.
+· Have excellent knowledge of software testing techniques and life cycle.
+· You master some automated testing tools (Selenium, Cucumber).
+· Have experience in SQL queries and a good understanding of relational databases (asset).
+· Are bilingual, attentive to details, autonomous, rigorous, organized and show initiative.
+· Have a good understanding of Agile continuous delivery.
+Job Types: Full-time, Permanent
+Salary: $40,343.00-$98,605.00 per year
+Benefits:
+Casual dress
+Commuter benefits
+Company events
+Dental care
+Disability insurance
+Employee assistance program
+Flexible schedule
+Life insurance
+Paid time off
+RRSP match
+Tuition reimbursement
+Vision care
+Wellness program
+Work from home
+Schedule:
+8 hour shift
+COVID-19 considerations:
+Employees are working from home and all the necessary equipment will be provided for remote work.
+Experience:
+quality assurance: 2 years (Preferred)
+Location:
+Montréal, QC (Required)
+Work remotely:
+Yes, temporarily due to COVID-19
+15 days ago
+report job

@@ -1,0 +1,69 @@
+English version to follow
+McKesson touche la vie des patients en œuvrant dans pratiquement tous les secteurs des soins de santé dans le but d’améliorer la santé en général. Chez McKesson Canada, nous créons un impact dans la vie de 12 millions de Canadiens, chaque jour. Nous distribuons plus de 35 000 produits à partir de 17 centres de distribution à 6 300 pharmacies de détail, 1 350 hôpitaux, centres de santé longue durée, cliniques et établissements de santé partout au Canada. Toutefois, nous sommes beaucoup plus qu'une entreprise de distribution. Nous avons automatisé 2 500 pharmacies de détail et distribuons annuellement plus de 100 millions de doses de médicaments grâce à nos solutions d'automatisation. Les fabricants, les fournisseurs de soins de santé et les patients comptent sur nous pour une gamme complète de services qui contribuent à la qualité et l'intégrité des soins de santé pour le bénéfice de tous.
+
+Chez McKesson, vous participerez à la création de produits et de solutions qui contribuent à la réalisation de la mission de l’entreprise, soit améliorer la qualité de vie et faire progresser les soins de santé. Travailler ici représente une occasion d’édifier une industrie qui est vitale pour nous tous.
+Résumé de l’emploi
+S’assurer de la qualité des livrables selon les analyses. S’assurer de la non-régression du système lors de la livraison de version. Assurer la communication avec les équipes internes afin de former sur les nouvelles fonctionnalités du système.
+Responsabilités spécifiques
+S’assurer que le développement est conforme à l’analyse
+S’assurer de la non-régression des systèmes lors de nouvelles versions en production
+Documenter des problèmes en production
+Travailler en étroite collaboration avec les analystes, développeurs, formateurs et support aux clients
+Assurer les tests de conversions
+Tester les mises à jour de liste et maintenance dans les systèmes
+Collaborer avec les parties prenantes internes et/ou externes
+Effectuer toutes autres tâches connexes reliées à la fonction
+Exigences du poste
+Connaissance du domaine d’affaires de la pharmacie ou un milieu connexe du milieu de la santé
+Connaissance SQL
+Bonnes capacités d’analyse et aptitude à faire preuve de discernement lors de l’évaluation des problèmes en production ou en cours de développement
+Forte habileté de rédaction (documentation efficace et détaillée)
+Facilité à communiquer et à travailler en équipe
+Respecte les délais fixés et s’ajuste aux changements de priorité
+Capacité à travailler efficacement sous pression
+Atouts
+Leadership
+Souci du détail
+Grand sens des responsabilités et autonomie
+Facilité d’adaptation
+Emplacement : Montréal ou Québec
+******************************************
+McKesson is in the business of better health and we touch the lives of patients in virtually every aspect of healthcare. At McKesson Canada, we touch the lives of 12 million Canadians every day. We carry more than 35,000 products in 17 distribution centers and ultimately provide distribution to 6,300 retail pharmacies, 1,350 hospitals, long-term care centers, clinics and institutions all over Canada. But we're so much more than a distribution company. We've automated 2,500 retail pharmacies and dispense over 100 million doses a year through our automation solutions. Manufacturers, healthcare providers and patients count on us for a full range of services that contribute to the quality and safety of care for us all.
+
+At McKesson Canada, you’ll help us carry out our mission to improve lives and advance healthcare. Working here is your opportunity to shape an industry that’s vital to us all.
+Job Description
+Ensure the quality of deliverables using analyses. Ensure non-regression of the system upon version delivery. Communicate with internal teams for training on new system features.
+Specific Responsibilities
+Ensure that development complies with analysis
+Ensure non-regression of systems during production of new versions
+Document production problems
+Work closely with analysts and developers, as well as training and customer support specialists
+Provide conversion tests
+Test list and maintenance updates in the systems
+Work with internal and/or external stakeholders
+Perform all other tasks related to the position
+Position Requirements
+Knowledge of the business side of the pharmaceutical industry or a related sector in the health care industry
+Knowledge of SQL
+Strong analytical skills and the ability to exercise sound judgement when assessing issues in production or under development
+Excellent writing skills (efficient and detailed documentation)
+Good communication skills and ability to work as part of a team
+Ability to meet deadlines and adjust to changing priorities
+Ability to work effectively under pressure
+Assets
+Leadership
+Attention to detail
+Excellent sense of responsibility
+Location: Montréal or Quebec
+Career Level - IC - Professional - P1
+Worker Type
+Regular
+McKesson is an Equal Opportunity employer.
+The material contained herein is provided for informational purpose only. All open jobs offered by McKesson on this recruitment system are subject to specific job skill requirements. The job skill requirements, qualifications, and preferred experience are determined by a subsidiary, office or department within the company which is offering the position, and all positions are subject to local prevailing employment laws and restrictions. This would include immigration laws pertaining to work authorization requirements and any other applicable government permissions or compliance.
+The materials on this site are provided without warranties of any kind, either expressed or implied, including but not limited to warranties regarding the completeness of information contained on this site or in any referenced links. While McKesson attempts to update this site on a timely basis, the information is effective only as of the time and date of posting.
+McKesson is an equal opportunity employer and values diversity in its workforce. We encourage applications from all qualified individuals and will accommodate applicants' needs, up to the point of undue hardship, throughout all stages of the recruitment and selection process.
+The information on this site is for information purpose only and is not intended to be relied upon with legal consequence.
+Current employees must apply through internal career site.
+Join us at McKesson!
+3 days ago
+report job

@@ -1,0 +1,41 @@
+Quality Assurance Analyst
+6 mois with possibiliy of extansion
+Location: Montreal, QC ,Saint-Hyacinthe, QC
+
+Mandate description: We are looking for a Quality Assurance Analyst who will be in charge of ensuring the quality of our data in our data warehouses.
+
+Your mission:
+Analyze test requirements to ensure quality.
+Develop, document and execute strategies and test plans.
+Test changes in collaboration with the team.
+Represent the team and participate in the IT ecosystem test cycles.
+Produce quality evidence and obtain approvals.
+Participate in framework improvement and test automation.
+Provide estimates of testing efforts to assist in planning.
+Be the guardian of the quality of our data.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+Langues parlées et écrites / Spoken and written languages: English,French
+
+Années d’expérience / Years of experience: 5
+
+Exigence(s) minimum / Must have requirement(s):
+5 years of experience in data warehouse quality assurance.
+Good knowledge of quality assurance methods and practices.
+Good knowledge of ETL (Extract, Transform, Load) techniques.
+Good knowledge of Oracle, PL/SQL and SAS.
+Good knowledge of relational databases models
+
+Technologies demandées / Technologies required:
+Strong query building skills in PL/SQL and SAS (SQL).
+Beyond Compare or any other tool to compare output results.
+Power BI an asset.
+Jira, Confluence
+
+Autres exigences / Other requirements:
+Experience with automated testing, an asset.
+Knowledge of property insurance data areas, an asset.
+Bachelor's degree in Information Technology/Software Engineering or any equivalent combination of training and experience.
+22 days ago
+report job

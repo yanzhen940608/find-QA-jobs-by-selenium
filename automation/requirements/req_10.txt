@@ -1,0 +1,49 @@
+Job Description
+Our team is seeking a Testing Analyst & Automation developer who has experience in software development and testing and has interest in developing a career in QA/QC Automation. As participant in the software development process, a QA Analyst performs software tests and detects any potential issues. The QA Specialist works with Environmental Scientists, Chemical Engineers, Regulation Specialists, Project Managers as well as the Software Development Group to ensure high quality of the software.
+Responsibilities
+Participates in design meetings and provides feedback for development requirements.
+Uses provided requirements to produce the testing plan.
+Prepares and Executes test cases for functional, integration and regression testing for new functionalities, improvements, and bug fixes, then records results in the Defect management tool.
+Writes and automates unit, reliability, security and performance testing in an efficient manner
+Manages and Updates the library of Automated tests
+Identifies potential problems as soon as possible in the development process (e.g. bugs/defects or risks) and reports the results in an accurate and detailed way.
+· Completes assigned tasks within set deadlines, while following appropriate procedures.
+Skills required
+Excellent writing and communicational skills - Proficiency in written and spoken English
+Capability to create content in a clear and concise manner, for reporting defects, documenting the testing process, creating test cases.
+Proven experience of software applications testing
+Experience with C# development
+Solid knowledge of Web technologies HTML, Javascript, css. Web framework an asset
+Very good knowledge of SQL tools and databases will be considered an asset
+Work experience with Selenium
+Capability of understanding and interpreting user and development requirements.
+Exhibit sound judgement, keen eye for details and tenacity for solving difficult problems
+Excellent knowledge of Software Development Life Cycle (SDLC) and QA methodologies
+Good analytical abilities and time management skills
+Hands on experience in using at least one Defect Management Tool
+Good knowledge of functional and structural testing design techniques
+Ability to work under pressure with short deadlines
+Flexibility and proficiency at setting priorities
+Background
+Experience in software testing and writing software for Automated testing
+Bachelor’s Degree or higher in Computer Science or related fields
+In addition to testing background, exposure to any of the following fields is considered an advantage: Environmental Sciences, Chemistry, Biochemistry, and Chemical Engineering
+About our company
+ERA Environmental Management Solutions (ERA) is a global software development firm located in the Montreal Technoparc (St-Laurent, Quebec). ERA is dedicated to creating a strong, respectful, and diverse work environment. We are looking for an energetic, vibrant, driven and highly motivated individual who wishes to be challenged, personally and professionally to fill the position of QA Analyst. ERA offers a competitive benefits package, onsite gym with showers, and sports activities. ERA’s offices are located 850 m from the future light rail (REM) Technoparc station. This campus is currently served by the STM (bus # 72) Du College Metro and Fairview bus station.
+ERA employees are currently working from home due to COVID-19. Flexible optional work from home will be available for future as well.
+All qualified individuals are invited to submit a CV and cover letter. ERA-EHS will only be contacting candidates we feel are a good fit for the position.
+-Candidates will be contacted via telephone if chosen for an interview-
+---References will be required upon demand---
+Equal Opportunity: ERA Environmental Consulting is committed to the principle of equal employment opportunity and encourages persons from all backgrounds and origins to apply.
+Application Deadline: 2020-12-15
+Expected Start Date: 2020-12-16
+Job Types: Full-time, Permanent
+Salary: $45,000.00-$60,000.00 per year
+Schedule:
+Monday to Friday
+Experience:
+Quality Assurance: 1 year (Preferred)
+Work remotely:
+Yes, temporarily due to COVID-19
+1 day ago
+report job

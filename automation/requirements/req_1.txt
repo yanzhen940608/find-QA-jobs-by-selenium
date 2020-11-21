@@ -1,0 +1,62 @@
+COMPANY DESCRIPTION
+Castle Hall Diligence is a leading specialist in operational, investment and cybersecurity due diligence of alternative and traditional asset managers. With a rapidly growing team of 70+, Castle Hall has become the largest, dedicated due diligence organization worldwide, operating from offices in Montréal and Halifax in Canada; London in the United Kingdom, Abu Dhabi in the UAE, Manila in the Philippines, and Sydney in Australia. Castle Hall’s core competitive advantage is DiligenceHub, our proprietary online diligence platform, which has helped our clients review diligence across more than 5,000 fund entities.
+Castle Hall Diligence is proud to have been named the
+Best Global Operational Due Diligence Firm for six consecutive years
+2014 - 2019 Alternative Investment Awards
+2018, 2017 and 2016 Hedge Fund Awards
+More information about our company can be found at www.castlehalldiligence.com.
+Castle Hall is an entrepreneurial, dynamic and fast moving company that is looking to add a Senior Quality Analyst to our team. Reporting to the Director, Platform Development in Montreal, this role is a maternity leave replacement, until November 2021. To respond to increasing demand for Castle Hall’s services, and the firm’s commitment to continued growth, there is a strong possibility for conversion to a full time, permanent position at the end of the maternity leave replacement period. The successful candidate will take part in the design, test and validation process to deliver the next iteration of our web application and be given the opportunity for personal and professional growth.
+RESPONSIBILITIES
+· Identify, test and improve the critical areas of our codebase
+· Work closely with our developers and the rest of the QA team to write test specifications and produce tests in order to increase code quality and ensure coverage
+· Build up, monitor, and own results of automated testing
+· Improve our regression testing procedures
+· Take part in stand-up and technical meetings
+· Be proactive and flexible, adjust priorities to changing timelines and deadlines
+· Contribute to short, medium, and long-term QA roadmap; proactively initiate projects, suggest and implement new approaches to achieving optimal testing coverage
+· Increase test coverage as new bugs are found; write bug tickets as they arise and track progress on resolution
+· Communicate new features and functionality with the operations team through user documentation and training
+· Provide second level technical support / investigation of bugs and feature requests coming from the operations team
+DESIRED SKILLS AND EXPERIENCE
+· 5+ years of demonstrated related professional experience
+· Hands-on experience in automation testing
+· Experience with automation software (Jenkins, TravisCI)
+· Strong knowledge of automation testing concepts, procedures and best practices
+· Experience in writing unit tests, functional tests and knowledge of related framework/tools (Jest, Jasmine, Protractor, Karma, Selenium)
+· Strong knowledge of at least 1 programming language (python, javascript, PHP, Java)
+· Solid understanding of the software development life cycle
+· Highly developed troubleshooting skills
+· Demonstrated success managing QA team timelines and meeting tight deadlines
+· Experience with ticketing systems and bug tracking systems (Jira)
+· Extremely comfortable with use of SQL and database design principles
+· Good understanding of git or other version control software
+· Good understanding of the REST and OOP design principles
+· Solutions oriented, creative thinker who can take the initiative in moving testing strategies forward with clarity
+· Ability to work with flexible targets and timelines. Priorities may change quickly at times; the successful candidate is able to shift focus quickly and manage multiple projects running in parallel
+· The ability to prioritize, multi task, and handle time sensitive deadlines in a fast paced environment
+· Familiar with the principles of material design.
+WHAT WE OFFER
+· An opportunity to be part of a highly successful and growing organization
+· Excellent working conditions in a young and dynamic work environment
+· Benefits plan including health and dental coverage
+· Learning and Development - Reimbursement for relevant designations
+Please send your cover letter and resume specifying “Senior QA”.
+Only candidates under consideration will be contacted.
+Reference ID: Senior QA
+Expected start date: 2020-10-12
+Job Types: Full-time, Temporary, Permanent
+Benefits:
+Dental care
+Extended health care
+Wellness program
+Work from home
+Schedule:
+Monday to Friday
+Experience:
+Jenkins: 2 years (Preferred)
+writing functional/unit tests in JavaScript, Python or Java: 2 years (Preferred)
+writing test cases: 2 years (Preferred)
+Work remotely:
+Yes, temporarily due to COVID-19
+30+ days ago
+report job

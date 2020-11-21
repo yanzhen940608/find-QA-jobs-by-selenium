@@ -1,0 +1,42 @@
+The Test automation candidate will be responsible to implement test automation solutions based on project needs. The candidate must have proven test automation experience and have good programming background in more than one language or test automation tool. Some of the candidate responsibility will be to participate in the design, development and implementation of test automation projects.
+Workplace : Montréal
+Permanent position
+Primary Roles /Responsibilities
+Creates / Update test automation frameworks and/or scripts for assigned projects
+Executes automates tests if required and generates appropriate reports
+Perform knowledge transfers sessions when necessary
+Develops strong knowledge and understanding of the products assigned to test
+Required Skills
+College degree on an IT related area or the equivalent experience
+Strong verbal and written communications skills in both English and French
+6 or more years’ experience in software testing or software development
+A minimum of 1 year experience in automating testing
+Experience with Test Methodologies and approaches
+Experience on any of the following test automation tools; Apium, SoapUI, TFS, Quickt test (QTP), HP UFT, Robot Framework, Selenium and/or Test Complete
+A minimum of 2 years’ experience in programming languages like C, C#, Java, JavaScript, JUnit, Python, SQL and VBScript,
+Agile experience for 2 years as a minimum
+The following experience would be an asset:
+Quality Assurance related certifications
+Exposure to Jenkins and Maven
+Experience with Test Management Systems (ALM, Jira)
+Test Data Management experience
+Personal Qualities
+Ability to work both independently and in a team-oriented, collaborative environment.
+Facility to conform to shifting priorities in company requirements and timelines.
+Capacities to learn, understand, and apply new technologies.
+Good interpersonal skills, positive attitude, creativity and attention to details.
+Job Types: Full-time, Permanent
+Salary: $50,000.00-$90,275.00 per year
+Benefits:
+Dental care
+Disability insurance
+Extended health care
+Life insurance
+Vision care
+Work from home
+Schedule:
+8 hour shift
+Work remotely:
+Yes, always
+8 days ago
+report job

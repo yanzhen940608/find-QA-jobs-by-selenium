@@ -1,0 +1,89 @@
+Bouclair vous offre un environnement de travail convivial et stimulant. Axé sur la créativité et l’innovation, notre compagnie sera complice de votre développement professionnel.
+Notre équipe s’agrandit et recherche actuellement de nouveaux talents pour combler le poste d’ANALYSTE ASSURANCE QUALITÉ. Cette position offre l’avantage de travailler à distance.
+ANALYSTE ASSURANCE QUALITÉ
+Sous la supervision du gestionnaire des opérations numériques TI, l’analyste assurance qualité sera responsable de vérifier le bon fonctionnement de notre plateforme web et des systèmes connexes.
+L'analyste participera à différents projets visant à l'amélioration et au maintien des processus d’affaires existants.
+Responsabilités
+Définir les besoins en assurance qualité et les tests nécessaires pour les projets, coordonner l'exécution, communiquer les risques, et rendre compte des résultats des tests;
+Concevoir, écrire, mettre en place et exécuter différents tests (unitaires, fonctionnels, automatisés) qui valideront la qualité et le bon fonctionnement de nos applications.
+Créer une documentation claire et concise sous la forme de stratégies de test, de plans, de scripts de test, de scénarios, de listes de contrôle et de défauts ;
+Identifier les forces et les faiblesses de nos applications ;
+Utiliser les outils de gestion de bogues (TestRail et Jira) pour suivre et documenter les problèmes et les solutions trouvées.
+Interroger des bases de données (SQL), valider les données, exporter des résultats et mettre en forme des rapports ;
+Travailler en collaboration avec nos analystes de systèmes ;
+Effectuer d'autres tâches connexes.
+Expérience et compétences requises
+Un minimum de 2-3 ans d'expérience dans un poste similaire
+Baccalauréat en informatique, système d’information ou l'équivalent
+Connaissance d'une large gamme d'applications de logiciels
+Excellente connaissance des tests sur mobiles : navigateurs Web, iOS, Android ;
+Excellente connaissance de la suite MS Office (Excel, Word, PowerPoint, Projet, Visio) et G-Suite (Gmail, Docs, Sheets, Calendrier, Slides, Drive et Sites);
+Excellente connaissance des techniques de test, y compris des tests exploratoires structurés et non structurés, des tests en boîte blanche et en boîte noire, des tests scriptés et non scénarisés;
+Expérience avec Jira et TestRail (un atout)
+Fortes connaissances en programmation et langage SQL
+Solides compétences analytiques et de résolution de problèmes
+Esprit créatif
+Attitude positive, en adoptant une approche d'équipe;
+Haut niveau de communication interpersonnelle écrite et verbale;
+Sens des affaires
+Ce poste est à la hauteur de vos ambitions ? N’attendez pas une minute de plus! Faites parvenir votre CV !
+Seules les personnes retenues en présélection seront contactées.
+Bouclair souscrit au principe d'équité en matière d'emploi.
+Le genre masculin est utilisé sans discrimination et uniquement dans le but d’alléger le texte.
+Bouclair en quelques mots …
+Bouclair est une compagnie dont la marque est devenue la référence de choix en matière de meubles et de décorations pour la maison à bon prix. Distribués à travers son propre réseau de magasins et en ligne, les produits sont dessinés localement par une équipe de designers et sont présentés en prenant soin de coordonner soigneusement chacun des articles avec son ensemble pour créer un style unique et aider les clients à visualiser leurs pièces complètes.
+Basée à Montréal, la compagnie opère une soixantaine de magasins Bouclair à travers le pays et emploie près de 1 000 personnes. La compagnie offre une expérience de magasinage multi-segments puisque les consommateurs ont le choix de magasiner en boutique, en ligne ou par téléphone.
+***********************
+Bouclair offers a friendly and stimulating work environment. Focusing on creativity and innovation Bouclair will accompany you through your professional accomplishment.
+Our team is growing and is currently looking for new talents to fill the position of QUALITY ASSURANCE ANALYST. This position offers the advantage of working remotely.
+Quality assurance ANALYST
+Under the supervision of the IT Digital Operations Manager, the Quality Assurance Analyst will be responsible for verifying the proper functioning of our web platform and related systems.
+The analyst will participate in various projects aimed at improving and maintaining existing business processes.
+Responsabilities
+Analyzing the QA and test needs for projects, coordinating the execution, mitigating and communicating risks, and reporting on the test results;
+Design, write, set up and execute various tests (unitary, functional, automated) that will validate the quality and smooth operation of our applications.
+Create clear and concise documentation in the form of test strategies, plans, test scripts, scenarios, checklists, and defects;
+Identify the strengths and weaknesses of our applications;
+Use bug management tools (TestRail and Jira) to track and document problems and solutions found;
+Querying databases (SQL), exporting results, and formatting reports;
+Work in collaboration with our systems analysts;
+Perform other related duties
+Skills & Competencies required
+A minimum of 2-3 years experience in a similar position
+Bachelor degree in Computer Science or Information Technology or equivalent
+Knowledge of a broad range of software applications
+Excellent knowledge in mobile testing: iOS, Android, and mobile web browsers;
+Excellent knowledge of the MS Office suite (Excel, Word, PowerPoint, Project, Visio) and G-Suite (Gmail, Docs, Sheets, Calendar, Slides, Drive and, Sites);
+Excellent knowledge of testing techniques including structured and unstructured exploratory testing, white and black box testing, scripted and unscripted testing;
+Experience with Jira and TestRail (an asset)
+Strong programming knowledge
+Strong analytical and problem-solving skills
+Creative mindset
+Positive attitude, taking a team-based approach;
+High level of interpersonal written and verbal communication skills;
+Business acumen
+This position challenges your ambitions? Don’t waste any time! Send our HR team your resume!
+Only the selected candidates will be contacted.
+Bouclair is committed to employment equity principle.
+The masculine is used without discrimination and solely to lighten the text.
+Bouclair in a few words …
+Established in Montreal, Bouclair is a privately owned company and a lifestyle brand offering home fashion decor and furniture at affordable prices. Distributed in its own retail stores across Canada and online, the products are designed locally by an in-house team of designers and showcased in a coordinated manner creating a unique style to help customers visualize their completed rooms.
+Headquartered in Montreal, the company operates close to sixty Bouclair stores across the country, employing close to 1,000 people. The company offers a full omni-channel shopping experience – customers have the choice of shopping in stores, online or through its call centre
+Type d'emploi : Temps Plein, Permanent
+Avantages :
+Assurance Dentaire
+Assurance Invalidité
+Assurance Vie
+Assurance Vision
+Congés de Vacances et Compensatoires
+Réductions Tarifaires
+Stationnement sur place
+Tenue Décontractée
+Horaire :
+Du Lundi au Vendredi
+Expérience:
+poste similaire: 2 ans (Souhaité)
+Formation:
+Baccalauréat (Souhaité)
+Today
+report job

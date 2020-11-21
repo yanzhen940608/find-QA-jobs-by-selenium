@@ -1,0 +1,85 @@
+Here at EQ Care, we are on a mission to create innovative technologies and services that drive our vision which is to create a healthier world, one life at a time.
+
+EQ Care is a market leader in the rapidly growing industry of virtual care. We enable employers to offer to their employees a secure online access to medical practitioners and nurses via a computer, tablet, or smartphone. Telemedicine is the biggest trend in employee benefits and an exponential number of companies are looking to offer the service in the near future.
+
+To accomplish our big vision, we are building a team of extremely motivated people from different fields of expertise such as science, engineering, commerce and design to combine human knowledge, empathy with technology and processes in order to create the ideal virtual health solution.
+
+At EQ Care, you will be part of a highly dynamic and innovative team, laser-focused on creating a health enriching community built on trust, warmth, and dignity, with the goal of creating value for all our partners through a technology-enhanced care ecosystem.
+
+Quality Assurance Analyst
+
+Position Summary
+QA Analyst with Automation experience. Reporting to the QA Manager, the QA Analyst will be responsible for the planning, coordination, and execution of end user testing and quality assurance activities related to new clients, implementations, regular updates, or upgrades to EQ care’s services.
+The candidate must have good knowledge of building, and maintaining a sound testing infrastructure filled with manual, and automated tests to help facilitate testing of future deployments, as the product continues to grow. Duties of the QA analyst will also include working hand-in-hand with the development, product, and support teams, to help understand each departments’ issues, enabling you to log, and prioritize issues and needs based on severity/impact on the product.
+
+Key Responsibilities
+
+Create, execute, and maintain test cases for all EQ Care platforms.
+Create, execute, and maintain automated tests for all EQ Care platforms.
+Analyze test results and communicate results with appropriate team members.
+Help document, and prioritize issues to facilitate resolution.
+Quickly identify test risks and propose mitigation plans.
+Collect data to illustrate progress of planning/testing for a particular feature.
+Work efficiently and simultaneously on several projects in parallel.
+Guide new team members on application processes and features.
+Provide accurate estimates for test planning, and execution of upcoming feature enhancement.
+Collaborate with the support team for problem solving.
+Collaborate with the development team for problem solving.
+
+Education & Skills
+
+At least 3 years of QA experience in Software Development.
+Experience with bug management, tracking and reporting programs (i.e. Jira, ClickUp).
+Experience with black, gray, white box testing.
+Experience in building automated tests.
+Experience with test case creation and test plan organization.
+Experienced in working in fast paced environments.
+Clear and effective communication skills.
+Self-driven ability to work independently.
+Strong team collaborator.
+Strong attention to detail.
+Strong problem-solving skills and an ability to think outside the box.
+Solid time management skills.
+
+Chez EQ Care, nous avons comme mission de créer des technologies et services innovateurs en lien avec notre vision de créer un monde plus en santé, une vie à la fois.
+
+EQ Care est un leader dans l’industrie de la santé virtuelle. Nous permettons aux employeurs d’offrir à leurs employés un accès en ligne sécurisé à des médecins, infirmières et autres professionnels de la santé via un ordinateur, tablette ou téléphone intelligent. La télémédecine est la principale tendance en assurance collective et un nombre exponentiel d’entreprises considèrent offrir ce service dans un futur proche.
+
+Afin d’accomplir notre grande vision, nous bâtissons une équipe de gens extrêmement motivés provenant de différents domaines d’expertises tels que les sciences, l’ingénierie, le commerce et la conception afin de combiner les connaissances humaines et l’empathie avec les technologies et les processus pour créer la solution santé virtuelle idéale.
+
+Chez EQ Care, vous ferez partie d’une équipe dynamique et innovatrice, concentrée à la création d’une communauté d’amélioration de la santé bâtie sur la confiance, la chaleur humaine et la dignité, tout en ayant pour but de créer une valeur pour tous nos partenaires via un écosystème de soins supporté par la technologie.
+
+Analyste assurance-qualité
+
+Le poste
+Relevant du responsable QA, la personne sera responsable de la planification, de la coordination et de l'exécution des activités de test de l'utilisateur final et d'assurance qualité liées aux nouveaux clients, aux mises en œuvre, aux mises à jour régulières ou aux mises à niveau des services d'EQ Care.
+Le candidat doit avoir une bonne connaissance de la conception et du maintien d'une infrastructure de test solide de tests manuels et automatisés afin de faciliter les tests de futurs déploiements, à mesure que le produit continue de croître. Les tâches de l'analyste QA comprendront également la collaboration avec les équipes de développement, de produit et de support afin d'aider à comprendre les problèmes de chaque département, vous permettant d’enregistrer et de hiérarchiser les problèmes ainsi que les besoins en fonction de la gravité / de l'impact sur le produit.
+
+Principales responsabilités
+Créer, exécuter et maintenir des cas de test pour toutes les plates-formes EQ Care.
+Créer, exécuter et maintenir des tests automatisés pour toutes les plates-formes EQ Care.
+Analyser les résultats des tests et communiquer les résultats aux membres appropriés de l'équipe.
+Aide à documenter et prioriser les problèmes pour faciliter la résolution.
+Identifier rapidement les risques de test et proposer des plans d'atténuation.
+Recueillir des données pour illustrer les progrès de la planification et/ou des tests d'une fonctionnalité particulière.
+Travailler efficacement et simultanément sur plusieurs projets en parallèle.
+Guider les nouveaux membres de l'équipe sur les processus et les fonctionnalités des applications.
+Fournir des estimations précises pour la planification des tests et l'exécution des améliorations de fonctionnalités à venir.
+Collaborez avec l'équipe d'assistance pour résoudre les problèmes.
+Collaborer avec l'équipe de développement pour la résolution de problèmes.
+
+Éducation et compétences
+Au moins 3 ans d'expérience en assurance qualité dans le développement de logiciels.
+Expérience avec les programmes de gestion, de suivi et de rapport de bogues (par exemple Jira, ClickUp).
+Expérience avec les tests de boîtes noires, grises et blanches.
+Expérience dans la conception de tests automatisés.
+Expérience dans la création de cas de test et de l'organisation du plan de test.
+Expérimenté dans le travail dans des environnements au rythme rapide.
+Compétences en communication claires et efficaces.
+Capacité autonome de travailler de façon autonome.
+Collaborateur d'équipe solide.
+Grande attention aux détails.
+Excellentes compétences en résolution de problèmes et capacité à sortir des sentiers battus.
+Excellentes compétences en gestion du temps.
+30+ days ago
+report job

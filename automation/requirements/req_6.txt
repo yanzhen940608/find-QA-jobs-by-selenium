@@ -1,0 +1,50 @@
+Urgently hiring
+Who We Are:
+An experienced team of developers, producers, designers and marketing aces with a current focus on mobile gaming. We make games that are accessible to everyone - with an addictive and unique twist! We’re always on the lookout for people that share our passion, attention to detail, and have a strong desire to keep raising the bar on amazing mobile experiences.
+How You'll Contribute; What You'll Achieve
+Work under the direction of the QA Lead to provide test support for our team of engineers and designers.
+Perform daily smoke tests of the game using isolated and master build branches.
+Run through and write test plans for existing and new features. Become familiar with the project design by closely reading project documentation and reaching out regularly to our team of game developers.
+Verify that identified bugs are fixed in the database.
+Identify and bug new issues that occur on phones and tablets across major Android and iOS devices
+Build on your fundamental QA skills by learning the specifics of mobile game development.
+Engage in continuous improvement of the QA process. Think critically about basically everything. Be able to take “no” for an answer.
+Work closely with developers, reproducing and owning issues
+Provide assistance with other studio tasks as needed.
+What You Bring
+The #1 qualification is positive-energy and a can-do enthusiasm for project quality.
+At least 2 years or 1 shipped project in mobile, console, PC gaming, or software QA.
+Strong oral, written, and interpersonal communication skills, including the ability to interact with team members at all levels.
+Familiarity with at least one bug database program (ex, Jira) and standard office software (Word, Excel, Outlook.)
+High School diploma or equivalent
+Minimum age of 18 years and above
+Ability to quickly pick up new technical skills, such as troubleshooting sensors, and learning to use uncommon software like ADB or xCode.
+Knowledge of Unity an asset
+Knowledge of Adobe suite an asset
+Experience with or interest in automation and/ or scripting
+What We Offer
+A collaborative teamwork environment where learning and growth are constant.
+A human-scale game company with no mandatory overtime or weekend hours, no second-class team members, and no QA dungeon.
+The opportunity to join a tight-knit team and invest in your professional growth. We promote primarily from within, so – the sky’s the limit if you put in the work!
+Benefits activated after probation period
+Work from home opportunities
+Paid vacation
+Reference ID: 0020920
+Expected start date: 2020-09-21
+Job Types: Full-time, Permanent
+Pay: $40,000.00-$50,000.00 per year
+Benefits:
+Dental care
+Extended health care
+Flexible schedule
+Paid time off
+Vision care
+Work from home
+Schedule:
+Monday to Friday
+Experience:
+Quality Assurance: 2 years (Preferred)
+Work remotely:
+Yes, always
+30+ days ago
+report job

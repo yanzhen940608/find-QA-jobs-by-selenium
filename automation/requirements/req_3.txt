@@ -1,0 +1,38 @@
+Le poste
+
+Dans le cadre de notre développement et du renforcement des équipes nous recherchons un analyste assurance qualité automatisation qui intégrera notre division SI Business/Web pour travailler sur plusieurs projets, produits et solutions.
+
+Profil recherché :
+Tu es le candidat idéal si tu as :
+5 ans d’expérience en tant qu’analyste / développeur / testeur de logiciels, y compris en automatisation ou similaire, avec un diplôme en informatique, en génie et / ou en mathématiques;
+
+De l’expérience en tests manuels et que tu as développé des capacités d’automatisation pour des logiciels d’entreprise;
+
+Plus de 3 ans d’expérience dans les tests Selenium / TestNG, Java et API, y compris l’automatisation des API;
+
+Des connaissances et de la pratique dans une variété de technologies, de langages (par exemple Ruby, Java, SQL), de bases de données (par exemple MySQL, Oracle, SQLServer), de systèmes d’exploitation (par exemple Mac, Windows, Solaris / Linux / AIX);
+
+Des connaissances approfondies dans un ou plusieurs cadres de tests automatisés (par exemple Selenium / Appium, TestNG, QTP, Cucumber, etc.) et des outils de suivi des problèmes (par exemple JIRA), et une expérience des tests d’API à l’aide de Postman et Automation à l’aide de Soapui, RestAssured , etc.;
+
+Des expériences avec les outils d’intégration continue comme Jenkins et des outils d’automatisation mobile comme Appium;
+
+De l’expérience avec Gherkin, Cucumber, Ruby / Rails / Sinatra, MySQL, c’est un atout majeur;
+
+La capacité d’apprendre rapidement les nouvelles technologies et qui est capable de s’adapter aux changements de notre pile technologique et de nos outils de base;
+
+Une personnalité énergique, que tu es motivé et capable de travailler et de collaborer en équipe;
+
+Des compétences en résolution de problèmes et en gestion du temps;
+
+À propos
+
+Pourquoi nous rejoindre?
+
+1 – IT Link se positionne comme un tremplin dans ta carrière : construisons ensemble ton plan de carrière pour une collaboration intelligente
+2 – Management de proximité, 500 jours de formation par an, diversité avec 33 nationalités, programme de mobilité internationale
+3 – Notre communauté de Linkers : échange tes best practices, trouve de l’aide technique au sein du Groupe, partage de chouettes moments lors des soirées et autres événements de l’entreprise.
+4 – Participe au développement de IT Link grâce à ton expertise : avoir des responsabilités, répondre à des appels d’offre, identifier de nouveaux projets, s’occuper de projets internes, etc.
+
+Depuis plus de trois décennies, IT Link innove aux côtés des acteurs majeurs de l’industrie et des services. Connecte les idées d’aujourd’hui aux révolutions de demain et deviens un Linker !
+3 days ago
+report job
